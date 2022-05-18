@@ -6,5 +6,8 @@ public class Deneme {
 
     public static void main(String[] args) {
         System.out.println("first day is done");
+
+        System.out.println("deneme3");
+
     }
 }
