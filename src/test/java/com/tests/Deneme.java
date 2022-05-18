@@ -8,6 +8,7 @@ public class Deneme {
         System.out.println("first day is done");
 
         System.out.println("deneme3");
+        System.out.println("last one");
 
     }
 }
